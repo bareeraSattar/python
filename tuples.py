@@ -1,0 +1,6 @@
+tuple = ("apple","banana","orange","mango")
+print(tuple)
+mixed_tuple = ("Beri", 3.83,20,"CS")
+print(f"My name is {mixed_tuple[0]} \n I'm {mixed_tuple[2]} years old \n I'm graduating in {mixed_tuple[3]} \n My CGPA is {mixed_tuple[1]} ")
+l = list(tuple)
+print(l)
